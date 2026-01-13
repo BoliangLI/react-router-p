@@ -1,0 +1,9 @@
+{
+  "name": "my-react-router-app",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./build",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
